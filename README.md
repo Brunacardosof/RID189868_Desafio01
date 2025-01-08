@@ -1,17 +1,16 @@
-# RID189868_Desafio01
+# Landing Page Project
 
+- Project made for the Software Engineering Course at DNC ​​school.
+- This a project of a landing page for an architecture office to attract customers.
 
-Projeto feito para o Curso de Engenharia de Software da escola DNC!
-#
-Tecnologias usadas:
+## Tecnologias usadas
 
-HTML, CSS
+- **HTML** for structure
+- **CSS** for styling
+- **Figma** for design
+- Sheet Monkey para integração com o Google Sheets
 
-Figma (layout e design)
+## Live Preview
 
-Sheet Monkey para integração com o Google Sheets
-#
+https://projetosdearquiteturalandingpage.netlify.app/
 
-Link do site: https://projetosdearquiteturalandingpage.netlify.app/
-
-Link do Google Sheet: https://docs.google.com/spreadsheets/d/1qSwUM2NnVy_uGZ25DXut2bI4_VXAAamU05SI3YIfCzA/edit?usp=sharing
